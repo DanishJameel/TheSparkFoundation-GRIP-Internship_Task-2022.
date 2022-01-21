@@ -12,7 +12,11 @@ Integrate: To let the students integrate, and help each other, learn from each o
 
 Internship-Tasks
 
+"Data Science and Bussiness Analytics Tasks"
+
 # TheSparkFoundation-GRIP-Internship_Task-2022.
 TheSparkFoundation GRIP Internship_Task-January2022.
 
 This is one of the tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
+
+
